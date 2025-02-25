@@ -1,0 +1,5 @@
+Flask
+pymongo
+flask-jwt-extended
+werkzeug
+imapclient
