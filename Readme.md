@@ -1,8 +1,4 @@
-Here’s your **README.md** file properly formatted and ready to copy-paste:  
 
----
-
-```md
 # 📩 Secure Email Viewer
 
 A **secure** and **feature-rich** Streamlit application that allows users to **register, log in, and fetch emails** from their inbox, including listing email documents and attachments.
@@ -33,8 +29,8 @@ A **secure** and **feature-rich** Streamlit application that allows users to **r
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/amankumaraman/secure-email-viewer.git
-cd secure-email-viewer
+git clone https://github.com/Amankumaraman/Secure-App-with-Email-Document-Listing.git
+cd Secure-App-with-Email-Document-Listing
 ```
 
 ### 2️⃣ Install Dependencies
@@ -117,9 +113,6 @@ This project is open-source under the **MIT License**.
 Feel free to submit **issues, feature requests, and pull requests** to improve the project!
 
 📧 **Contact:** amanking177@gmail.com  
+
+🔗 **GitHub Repository:** [Secure-App-with-Email-Document-Listing](https://github.com/Amankumaraman/Secure-App-with-Email-Document-Listing/blob/main/Readme.md)
 ```
-
----
-
-This **README.md** is structured, well-formatted, and **GitHub-friendly**. 🚀  
-Let me know if you need any modifications! 😊
